@@ -1,5 +1,5 @@
 # FYP-Allocation-System
-Simple FYP Allocation System in Java with MySQL databse
+Simple FYP Allocation System in Java swing with MySQL databse
 
 ### Screenshots:
 <img src="screenshot/login_screen.jpeg" width="400">
